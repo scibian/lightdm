@@ -1,3 +1,10 @@
+lightdm (1.10.3-3sci8u1) scibian8; urgency=medium
+
+  * Scibian8 Rebuild
+  * Fix pipe descriptor leak
+
+ -- Thomas Hamel <thomas-externe.hamel@edf.fr>  Wed, 11 Apr 2018 18:48:53 +0200
+
 lightdm (1.10.3-3) unstable; urgency=medium
 
   * debian/patches:
