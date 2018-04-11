@@ -6,6 +6,7 @@ Upstream-Source: https://launchpad.net/lightdm
 
 Files: debian/*
 Copyright: © 2010 Yves-Alexis Perez <corsac@debian.org>
+           © 2017 Scibian Project <legal@scibian.org>
 License: GPL-2
 
 Files: ./greeters/gtk/lightdm-gtk-greeter.c
