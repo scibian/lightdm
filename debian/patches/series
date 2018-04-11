@@ -3,3 +3,4 @@
 03_use-desktopnames-properties.patch
 05_debianize-pam-files.patch
 06_change-user-dirs.patch
+07-Fix-pipe-descriptor-leak.patch
